@@ -16,7 +16,7 @@ tag:
 
 今年，因為做了一個開源的物聯網駭客工具——HackMaster Pi，所以就投了今年 COSCUP 和 HITCON 兩場活動的議程，雖然 HITCON 沒有上，但還是感謝寬寬能夠讓我在 COSCUP 和 HITCON 的聯名軌上，能夠有機會上台演講。
 
-雖然今年只去了一天，沒有太多時間聽議程、交流，不過還是有撥空去攤位的地方逛逛。現場展示了模組化的電腦 [Framework](https://frame.work/)，他模組化的精神加上不會太貴的售價讓我超級心動，只可惜現在的主力 Macbook 很耐操，~~找不到藉口可以換電腦~~，等 5 年後我的電腦運算速度太慢的時候，我一定要買一台 Framework 的筆電（希望那時候的 Framework 外觀可以更好看）。除此之外，因為前夜派對 denny 把 SITCON 的貼紙拿去宣傳，所以我只好很不要臉的也把 ISIP 高中職跨校資安社團 ZeroDay C00Kie 零日餅乾社的貼紙拿去 SITCON 攤位擺了。
+雖然今年只去了一天，沒有太多時間聽議程、交流，不過還是有撥空去攤位的地方逛逛。現場展示了模組化的電腦 [Framework](https://frame.work/)，他模組化的精神加上不會太貴的售價讓我超級心動，只可惜現在的主力 Macbook 很耐操，~~找不到藉口可以換電腦~~，等 5 年後我的電腦運算速度太慢的時候，我一定要買一台 Framework 的筆電（希望那時候的 Framework 外觀可以更好看）。除此之外，因為前夜派對 Denny 把 SITCON 的貼紙拿去宣傳，所以我只好很不要臉的也把 ISIP 高中職跨校資安社團 ZeroDay C00Kie 零日餅乾社的貼紙拿去 SITCON 攤位擺了。
 
 ![ISIP 高中職跨校資安社團 ZeroDay C00Kie 零日餅乾社的貼紙](posts/2025-COSCUP/image1.webp)
 
