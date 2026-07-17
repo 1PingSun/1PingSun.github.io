@@ -1075,10 +1075,10 @@ hexo-pagination@3.0.0:
   resolved "https://registry.npmjs.org/hexo-pagination/-/hexo-pagination-3.0.0.tgz"
   integrity sha512-8oo1iozloZo7TojPVYg4IxL3SJKCBdSJ908fTlIxIK7TWJIKdYnQlW31+12DBJ0NhVZA/lZisPObGF08wT8fKw==
 
-hexo-renderer-dartsass@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.npmjs.org/hexo-renderer-dartsass/-/hexo-renderer-dartsass-1.1.0.tgz"
-  integrity sha512-NeXkW5JEkAP0q3en6p9k2LQxWFBvl+L6OGW9UYaiiSqJn12hKyEdq9jEPdAhpKqo8T3AQavb8KXVuVAgBMOyKA==
+hexo-renderer-dartsass@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/hexo-renderer-dartsass/-/hexo-renderer-dartsass-1.2.0.tgz#6c36e2ca06493f4a99348d22799ea39e13f9d6ce"
+  integrity sha512-DfI/9kPjMWiuJtP1nIZLyhBVUe+oBow932mHlDJDV7lg0tuc4gUh40+ygHPVsOVCCOjdDM2HjeXRRk+8a/sutg==
   dependencies:
     sass "^1.37.5"
 
@@ -2134,11 +2134,6 @@ strip-indent@^3.0.0:
   integrity sha512-laJTa3Jb+VQpaC6DseHhF7dXVqHTfJPCRDaEbid/drOhgitgYku/letMUqOXFoWV0zIIUbjpdH2t+tYj4bQMRQ==
   dependencies:
     min-indent "^1.0.0"
-
-strnum@^2.1.2:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/strnum/-/strnum-2.1.2.tgz#a5e00ba66ab25f9cafa3726b567ce7a49170937a"
-  integrity sha512-l63NF9y/cLROq/yqKXSLtcMeeyOfnSQlfMSlzFt/K73oIaD8DGaQWd7Z34X9GPiKqP5rbSh84Hl4bOlLcjiSrQ==
 
 stylus@^0.62.0:
   version "0.62.0"
