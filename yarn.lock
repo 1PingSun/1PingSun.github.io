@@ -1017,13 +1017,13 @@ hexo-generator-category@^2.0.0:
   dependencies:
     hexo-pagination "3.0.0"
 
-hexo-generator-feed@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.npmjs.org/hexo-generator-feed/-/hexo-generator-feed-3.0.0.tgz"
-  integrity sha512-Jo35VSRSNeMitS2JmjCq3OHAXXYU4+JIODujHtubdG/NRj2++b3Tgyz9pwTmROx6Yxr2php/hC8og5AGZHh8UQ==
+hexo-generator-feed@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/hexo-generator-feed/-/hexo-generator-feed-4.0.0.tgz#6cc57eb8ec63c2ac75580c64a24055243bb6f42b"
+  integrity sha512-wG0SDBwJ60B+bcMQhArjSpw/bsuP1/4o9Ar+FnxTMRq5/SEZZlj7q/r7HI60olRf0eurqEm4Dm8yHfAMKQhkoA==
   dependencies:
-    hexo-util "^2.1.0"
-    nunjucks "^3.0.0"
+    feedsmith "2.9.0"
+    hexo-util "4.0.0"
 
 hexo-generator-index@^4.0.0:
   version "4.0.0"
@@ -1075,10 +1075,10 @@ hexo-pagination@3.0.0:
   resolved "https://registry.npmjs.org/hexo-pagination/-/hexo-pagination-3.0.0.tgz"
   integrity sha512-8oo1iozloZo7TojPVYg4IxL3SJKCBdSJ908fTlIxIK7TWJIKdYnQlW31+12DBJ0NhVZA/lZisPObGF08wT8fKw==
 
-hexo-renderer-dartsass@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.npmjs.org/hexo-renderer-dartsass/-/hexo-renderer-dartsass-1.1.0.tgz"
-  integrity sha512-NeXkW5JEkAP0q3en6p9k2LQxWFBvl+L6OGW9UYaiiSqJn12hKyEdq9jEPdAhpKqo8T3AQavb8KXVuVAgBMOyKA==
+hexo-renderer-dartsass@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/hexo-renderer-dartsass/-/hexo-renderer-dartsass-1.2.0.tgz#6c36e2ca06493f4a99348d22799ea39e13f9d6ce"
+  integrity sha512-DfI/9kPjMWiuJtP1nIZLyhBVUe+oBow932mHlDJDV7lg0tuc4gUh40+ygHPVsOVCCOjdDM2HjeXRRk+8a/sutg==
   dependencies:
     sass "^1.37.5"
 
@@ -1146,6 +1146,19 @@ hexo-theme-landscape@^1.0.0:
   version "1.1.0"
   resolved "https://registry.npmjs.org/hexo-theme-landscape/-/hexo-theme-landscape-1.1.0.tgz"
   integrity sha512-nszjixBEiEDZjf7glAGbHg0nKGHZdUDwzFVVdRDeu4FeHfGcY5CZNl9sF4vSligjnD8IwFXpDfx5E+GRmNKvWg==
+
+hexo-util@4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/hexo-util/-/hexo-util-4.0.0.tgz#23f69597aa200ee5612a4fd986cf7d7b5bcc6ea2"
+  integrity sha512-oXKXBs1HZ2Wu/eq0paAVqtCmAEcqJPZ4xxSVRuwAplm1hFU41Ul53WA5bmYMEz9Dp+OJ/SdchjXRmYlbGJdt3w==
+  dependencies:
+    camel-case "^4.1.2"
+    cross-spawn "^7.0.3"
+    deepmerge "^4.2.2"
+    highlight.js "^11.6.0"
+    htmlparser2 "^10.0.0"
+    prismjs "^1.29.0"
+    strip-indent "^3.0.0"
 
 hexo-util@^2.1.0:
   version "2.7.0"
