@@ -1,4 +1,11 @@
-# 關於我入侵 HITCON 的一檔事
+---
+title: 關於我入侵 HITCON 的一檔事
+date: 2026-09-05
+keywords: HITCON, HITCON 2026, 台灣駭客年會, 資安研討會, 資訊安全, Cybersecurity, 網路流量, 上傳流量, 頻寬測試, 樹莓派, Raspberry Pi, VPS, HTTP POST, 網路安全, ZeroDay, QR Code 安全, Orange Tsai, Edge 沙箱逃逸, AI 資安, 讀卡機安全, 議程心得, 技術分享, 南港展覽館
+tag:
+    - Cyber
+    - Event
+---
 
 先說，我沒有入侵 HITCON，我只是想要取個感覺很酷的標題，順便完成我申請學生票的 300 字心得。
 
